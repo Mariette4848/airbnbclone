@@ -1,5 +1,6 @@
 /*HEADER*/
-
+@import url("well.css");
+@import url("thumbnail.css");
 body{
     font-family: circle regular;
 }
